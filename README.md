@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sadhana1634/FrontEndProject](https://github.com/sadhana1634/FrontEndProject)
 
-- 💬 Ask me about **HTML, CSS JAVASCRIPT and SQL**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT and SQL**
 
 - 📫 How to reach me **sadhanasingh1634@gmail.com**
 
