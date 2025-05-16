@@ -1,6 +1,6 @@
 [![MasterHead](https://media3.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)](https://sadhanasingh1634.io)
 <h1 align="center">Hi 👋, I'm Sadhana Singh</h1>
-<h3 align="center">A passionate developer from India.</h3>
+<h3 align="center">A passionate Frontend developer from India.</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadhana1634&label=Profile%20views&color=0e75b6&style=flat" alt="sadhana1634" /> </p>
