@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadhana1634" alt="sadhana1634" /></a> </p>
 
-- 🔭 I recently worked on [Tic Tac Toe](https://github.com/sadhana1634/FrontEndProject/tree/main/Tic%20Tac%20Toe)
+- 🔭 I recently worked on [Meta verse](https://github.com/sadhana1634/FrontEndProject/tree/main/Meta-verse-Demo)
 
-- 🌱 I’m currently learning **React Js**
+- 🙈 Developed this Website named [Zomia](http://zomia.sadhana.free.nf/?i=1) using WordPress, do check this out 😍. 
+
+- 🌱 I’m currently learning **React Js** and **WordPress**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sadhana1634/FrontEndProject](https://github.com/sadhana1634/FrontEndProject)
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT and SQL**
 
 - 📫 How to reach me **sadhanasingh1634@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
