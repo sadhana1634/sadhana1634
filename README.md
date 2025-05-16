@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ReactJs and WordPress**
 
-- 🙈 I Developed this Website named [Zomia](http://zomia.sadhana.free.nf/?i=1)
+- 🙈 I Developed this Website named [Zomia](http://zomia.sadhana.free.nf/?i=1) using WordPress.
 
 - 👨‍💻 All of my projects are available at [https://github.com/sadhana1634/FrontEndProject](https://github.com/sadhana1634/FrontEndProject)
 
